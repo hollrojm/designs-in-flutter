@@ -41,7 +41,8 @@ class MainContent extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const textStyle = TextStyle(fontSize: 50, fontWeight: FontWeight.bold);
+    const textStyle = TextStyle(
+        fontSize: 50, fontWeight: FontWeight.bold, color: Colors.black);
     return SafeArea(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -51,7 +52,7 @@ class MainContent extends StatelessWidget {
             style: textStyle,
           ),
           const Text(
-            'Miércoles',
+            'Jueves',
             style: textStyle,
           ),
           Expanded(child: Container()),
