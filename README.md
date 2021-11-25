@@ -1,6 +1,6 @@
 # disenos
 
-![Screenshots](https://github.com/hollrojm/designs-in-flutter/tree/master/assets/vista.png)
+[Screenshots](https://github.com/hollrojm/designs-in-flutter/blob/master/assets/vista.png)
 
 A new Flutter project.
 
